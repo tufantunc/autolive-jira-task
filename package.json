@@ -4,7 +4,7 @@
   "main": "autolive.js",
   "license": "MIT",
   "bin": {
-    "autolive": "./bin/autolive"
+    "autolive": "./bin/autolive.js"
   },
   "dependencies": {
     "commander": "^2.19.0",
