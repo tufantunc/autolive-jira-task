@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "autolive.js",
   "license": "MIT",
+  "bin": {
+    "autolive": "./bin/autolive"
+  },
   "dependencies": {
     "commander": "^2.19.0",
     "console-error": "^0.0.4",
