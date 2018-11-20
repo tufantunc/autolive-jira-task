@@ -1,7 +1,7 @@
 {
   "name": "autolive-jiratask",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "autolive.js",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.19.0",
